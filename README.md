@@ -1,4 +1,4 @@
-![Find a coach](https://github.com/ihor-vt/learn-vuex/raw/main/main_page.png)
+![Find a coach](https://github.com/ihor-vt/learn-vuex/blob/main/screenshot/main_page.png)
 
 
 # learn-vuex
