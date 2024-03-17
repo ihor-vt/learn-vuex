@@ -1,3 +1,6 @@
+![Find a coach](https://github.com/ihor-vt/learn-vuex/raw/main/main_page.png)
+
+
 # learn-vuex
 
 This template should help get you started developing with Vue 3 in Vite.
